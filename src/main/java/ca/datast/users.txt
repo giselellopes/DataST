@@ -1,0 +1,5 @@
+id;name;email;password;address;employeeNumber;
+9999;John;admin;admin;5 Main Road, Balgriffin;555555
+0;Gisele;ap 22;gisele@gisele;123;456
+0;Lima;lima@lima;2 main street;987;555
+0;lopes;lopes@lopes;house 6, malahide;123;789
